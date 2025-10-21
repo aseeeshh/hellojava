@@ -5,3 +5,6 @@ public class Main {
 }
 // test comment
 
+class Test {
+    // This is a test class
+}
